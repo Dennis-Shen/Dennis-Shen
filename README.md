@@ -1,6 +1,6 @@
 - Dennis S
 
-- Working on a couple of personal projects
+- Hi! My name is Dennis, I am a student passionate about programming and mathematics. Aside from progrmming, I also enjoy playing badminton and doing debate.
 
 <!---
 Dennis-Shen/Dennis-Shen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
